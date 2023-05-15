@@ -7,21 +7,20 @@ export default {
 <template>
   <footer class="text-white p-1">
     <div class="d-flex justify-content-around">
-      <p>&longleftarrow; Design with by Egi Larasati &heartsuit;</p>
+      <p>&longleftarrow; By Nova Siska Nurfadilah </p>
       <p></p>
-      <p>&copy; Al-Qur'an Vue</p>
+      <p>&copy; My Al-Qur'an </p>
     </div>
   </footer>
 </template>
 
 <style scoped>
 footer {
-  font-family: Joyce;
-  background-color: #a18484;
+  font-family: sans-serif;
+  background-color: #18497e;
   position: fixed;
   bottom: 0;
   width: 100%;
-  animation: hue-rotate 2s linear infinite alternate;
 }
 @keyframes hue-rotate {
   to {

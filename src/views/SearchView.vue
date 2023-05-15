@@ -124,6 +124,6 @@ export default {
 .x {
   font-family: Joyce;
   margin-top: 200px;
-  color: #77573f;
+  color: #18497e;
 }
 </style>
